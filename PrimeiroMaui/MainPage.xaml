@@ -24,7 +24,7 @@
             <Entry x:Name="txt_c"/>
 
             
-            <Button Text="Somar" Clicked="Button_Clicked"/>
+            <Button Text="Calcular" Clicked="Button_Clicked"/>
 
         </VerticalStackLayout>
     </ScrollView>
